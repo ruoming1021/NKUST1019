@@ -1,0 +1,11 @@
+C:\Users\mm930\source\repos\nkust1019\test1019\test1019\bin\Debug\netcoreapp2.1\test1019.deps.json
+C:\Users\mm930\source\repos\nkust1019\test1019\test1019\bin\Debug\netcoreapp2.1\test1019.runtimeconfig.json
+C:\Users\mm930\source\repos\nkust1019\test1019\test1019\bin\Debug\netcoreapp2.1\test1019.runtimeconfig.dev.json
+C:\Users\mm930\source\repos\nkust1019\test1019\test1019\bin\Debug\netcoreapp2.1\test1019.dll
+C:\Users\mm930\source\repos\nkust1019\test1019\test1019\obj\Debug\netcoreapp2.1\test1019.csprojAssemblyReference.cache
+C:\Users\mm930\source\repos\nkust1019\test1019\test1019\obj\Debug\netcoreapp2.1\test1019.csproj.CoreCompileInputs.cache
+C:\Users\mm930\source\repos\nkust1019\test1019\test1019\obj\Debug\netcoreapp2.1\test1019.AssemblyInfoInputs.cache
+C:\Users\mm930\source\repos\nkust1019\test1019\test1019\obj\Debug\netcoreapp2.1\test1019.AssemblyInfo.cs
+C:\Users\mm930\source\repos\nkust1019\test1019\test1019\bin\Debug\netcoreapp2.1\test1019.pdb
+C:\Users\mm930\source\repos\nkust1019\test1019\test1019\obj\Debug\netcoreapp2.1\test1019.dll
+C:\Users\mm930\source\repos\nkust1019\test1019\test1019\obj\Debug\netcoreapp2.1\test1019.pdb
